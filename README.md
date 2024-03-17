@@ -5,3 +5,5 @@ The project's assumption was to construct an analog code lock. The circuit was b
 
 2. Simulation
 To conduct the simulation, the SimulIDE program was used. As seen, upon pressing all the buttons forming the password in the correct sequence, the LED lights up, and the relay begins to operate.
+
+![alt text](https://github.com/filipf112/analog-code-lock/blob/main/Images/schematic.jpg)
